@@ -1,0 +1,13 @@
+{
+    "name": "abhiabsas/textutil",
+    "description": "Testing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abhiabsas\\Textutil\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
