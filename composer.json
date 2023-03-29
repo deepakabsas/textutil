@@ -8,6 +8,12 @@
             "Abhiabsas\\Textutil\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "abhishekkumar",
+            "email": "deepakabsas@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {}
 }
