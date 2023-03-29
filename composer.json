@@ -15,5 +15,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {"abhiabsas/textutil": "1.0.0"}
 }
